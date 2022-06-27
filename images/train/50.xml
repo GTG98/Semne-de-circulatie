@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>50.jpg</filename>
+	<path>E:\folder antrenament\DATA\images\windows_v1.8.0\data\image\train\50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>persoana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>390</xmin>
+			<ymin>231</ymin>
+			<xmax>545</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>trecere_pietoni</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>628</xmin>
+			<ymin>303</ymin>
+			<xmax>677</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

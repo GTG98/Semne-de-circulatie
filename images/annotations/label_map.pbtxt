@@ -1,0 +1,39 @@
+item {
+    id: 1
+    name: 'interzis'
+}
+
+item {
+    id: 2
+    name: 'persoana'
+}
+
+item {
+    id: 3
+    name: 'semafor_rosu'
+}
+
+item {
+    id: 4
+    name: 'semafor_verde'
+}
+
+item {
+    id: 5
+    name: 'stop'
+}
+
+item {
+    id: 6
+    name: 'trecere_pietoni'
+}
+
+item {
+    id: 7
+    name: 'viteza_limita_30'
+}
+
+item {
+    id: 8
+    name: 'viteza_limita_40'
+}
